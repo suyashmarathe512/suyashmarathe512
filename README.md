@@ -65,7 +65,7 @@ Here are some cool projects you’ve shared on GitHub:
 ## 📫 How to Reach Me
 
 Connect with me on **LinkedIn**:  
-👉 https://www.linkedin.com/in/suyash-marathe-7356b6250/
+👉 [https://www.linkedin.com/in/suyash-marathe-7356b6250/](https://www.linkedin.com/in/suyash-marathe-77a82b3a0/)
 
 Looking forward to collaborating and building great things!
 
