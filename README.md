@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m a technology professional with a strong focu
 - 🔭 I’m currently exploring and building projects involving **Salesforce**, **Next.js**, **AI-powered applications**, and **end-to-end system solutions**. 
 - 🌱 I enjoy learning new technologies and applying them to real-world problems.  
 - 💬 Ask me about **Salesforce Apex**, **JavaScript**, and **full-stack development**.  
-- 📍 Based in **Nashik, India**. 
+- 📍 Based in **Pune, India**. 
 
 ---
 
